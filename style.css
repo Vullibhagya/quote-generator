@@ -1,0 +1,28 @@
+body{
+    font-family:Arial;
+    background:#f2f2f2;
+}
+
+.container{
+    width:700px;
+    margin:auto;
+    margin-top:40px;
+}
+
+button{
+    padding:10px 20px;
+}
+
+#quoteBox{
+    background:white;
+    padding:20px;
+    margin-top:20px;
+    border-radius:8px;
+}
+
+.history-item{
+    background:white;
+    margin-top:10px;
+    padding:15px;
+    border-radius:8px;
+}
